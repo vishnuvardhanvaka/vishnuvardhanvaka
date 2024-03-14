@@ -1,7 +1,7 @@
 
 <h1>Hello, I'm <a href="https://v3portfolio.vercel.app/">Vishnu</a>!</h1>
 
-<img src="/Developer.gif" width="28">  Currently a Professional student who has coding prowess in major fields such as Front-End, Back-End, Full Stack, AI, ML, DS, DL
+<img src="/Developer.gif" width="28">  Passionate tech enthusiast with expertise in ML, Deep Learning & Fullstack development. Diving into the depths of data to uncover hidden treasures. Crafting intelligent solutions for a smarter world.
 <br />
 <img align="right" src="/wink.gif" width="300">
 Connect with me on <img src="/Handshake.gif" width="60">
